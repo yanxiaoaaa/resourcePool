@@ -1,0 +1,94 @@
+[2020-09-14 19:57:48] [info]  [ 2288] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2020-09-14 19:57:48] [info]  [ 2288] Installing service 'neo4j' name 'Neo4j Graph Database - neo4j'.
+[2020-09-14 19:57:49] [info]  [ 2288] Service 'neo4j' installed.
+[2020-09-14 19:57:49] [info]  [ 2288] Apache Commons Daemon procrun finished.
+[2020-09-14 19:57:56] [info]  [ 5772] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2020-09-14 19:57:56] [info]  [ 5772] Starting service 'neo4j'...
+[2020-09-14 19:57:56] [info]  [ 7096] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2020-09-14 19:57:56] [info]  [ 7096] Running Service 'neo4j'...
+[2020-09-14 19:57:56] [info]  [ 3416] Starting service...
+[2020-09-14 19:57:56] [error] [ 5060] CreateJavaVM Failed with error [-6]
+[2020-09-14 19:57:56] [error] [ 3416] Failed to start Java
+[2020-09-14 19:57:56] [error] [ 3416] ServiceStart returned 4.
+[2020-09-14 19:57:56] [info]  [ 7096] Run service finished.
+[2020-09-14 19:57:56] [info]  [ 7096] Apache Commons Daemon procrun finished.
+[2020-09-14 19:57:58] [error] [ 5772] apxServiceControl(): dwState(4) != dwCurrentState(1); dwWin32ExitCode = 1066, dwWaitHint = 0, dwServiceSpecificExitCode = 4
+[2020-09-14 19:57:58] [error] [ 5772] apxServiceControl(): returning FALSE
+[2020-09-14 19:57:58] [error] [ 5772] Failed to start service 'neo4j'.
+[2020-09-14 19:57:58] [info]  [ 5772] Finished starting service 'neo4j', returning 0.
+[2020-09-14 19:57:59] [error] [ 5772] Apache Commons Daemon procrun failed with exit value: 5 (failed to start service).
+[2020-09-14 19:58:33] [info]  [ 8032] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2020-09-14 19:58:34] [info]  [ 8032] Starting service 'neo4j'...
+[2020-09-14 19:58:34] [info]  [ 6356] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2020-09-14 19:58:34] [info]  [ 6356] Running Service 'neo4j'...
+[2020-09-14 19:58:34] [info]  [ 4740] Starting service...
+[2020-09-14 19:58:34] [error] [ 1976] CreateJavaVM Failed with error [-6]
+[2020-09-14 19:58:34] [error] [ 4740] Failed to start Java
+[2020-09-14 19:58:34] [error] [ 4740] ServiceStart returned 4.
+[2020-09-14 19:58:34] [info]  [ 6356] Run service finished.
+[2020-09-14 19:58:34] [info]  [ 6356] Apache Commons Daemon procrun finished.
+[2020-09-14 19:58:36] [error] [ 8032] apxServiceControl(): dwState(4) != dwCurrentState(1); dwWin32ExitCode = 1066, dwWaitHint = 0, dwServiceSpecificExitCode = 4
+[2020-09-14 19:58:36] [error] [ 8032] apxServiceControl(): returning FALSE
+[2020-09-14 19:58:36] [error] [ 8032] Failed to start service 'neo4j'.
+[2020-09-14 19:58:36] [info]  [ 8032] Finished starting service 'neo4j', returning 0.
+[2020-09-14 19:58:36] [error] [ 8032] Apache Commons Daemon procrun failed with exit value: 5 (failed to start service).
+[2020-09-14 19:59:04] [info]  [ 4120] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2020-09-14 19:59:04] [info]  [ 4120] Starting service 'neo4j'...
+[2020-09-14 19:59:04] [info]  [ 6252] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2020-09-14 19:59:04] [info]  [ 6252] Running Service 'neo4j'...
+[2020-09-14 19:59:04] [info]  [ 5916] Starting service...
+[2020-09-14 19:59:04] [error] [ 7060] CreateJavaVM Failed with error [-6]
+[2020-09-14 19:59:04] [error] [ 5916] Failed to start Java
+[2020-09-14 19:59:04] [error] [ 5916] ServiceStart returned 4.
+[2020-09-14 19:59:04] [info]  [ 6252] Run service finished.
+[2020-09-14 19:59:04] [info]  [ 6252] Apache Commons Daemon procrun finished.
+[2020-09-14 19:59:06] [error] [ 4120] apxServiceControl(): dwState(4) != dwCurrentState(1); dwWin32ExitCode = 1066, dwWaitHint = 0, dwServiceSpecificExitCode = 4
+[2020-09-14 19:59:06] [error] [ 4120] apxServiceControl(): returning FALSE
+[2020-09-14 19:59:06] [error] [ 4120] Failed to start service 'neo4j'.
+[2020-09-14 19:59:06] [info]  [ 4120] Finished starting service 'neo4j', returning 0.
+[2020-09-14 19:59:06] [error] [ 4120] Apache Commons Daemon procrun failed with exit value: 5 (failed to start service).
+[2020-09-14 20:00:14] [info]  [ 5016] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2020-09-14 20:00:14] [info]  [ 5016] Starting service 'neo4j'...
+[2020-09-14 20:00:14] [info]  [ 6988] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2020-09-14 20:00:14] [info]  [ 6988] Running Service 'neo4j'...
+[2020-09-14 20:00:14] [info]  [ 7572] Starting service...
+[2020-09-14 20:00:14] [error] [ 7200] CreateJavaVM Failed with error [-6]
+[2020-09-14 20:00:14] [error] [ 7572] Failed to start Java
+[2020-09-14 20:00:14] [error] [ 7572] ServiceStart returned 4.
+[2020-09-14 20:00:14] [info]  [ 6988] Run service finished.
+[2020-09-14 20:00:14] [info]  [ 6988] Apache Commons Daemon procrun finished.
+[2020-09-14 20:00:16] [error] [ 5016] apxServiceControl(): dwState(4) != dwCurrentState(1); dwWin32ExitCode = 1066, dwWaitHint = 0, dwServiceSpecificExitCode = 4
+[2020-09-14 20:00:16] [error] [ 5016] apxServiceControl(): returning FALSE
+[2020-09-14 20:00:16] [error] [ 5016] Failed to start service 'neo4j'.
+[2020-09-14 20:00:16] [info]  [ 5016] Finished starting service 'neo4j', returning 0.
+[2020-09-14 20:00:16] [error] [ 5016] Apache Commons Daemon procrun failed with exit value: 5 (failed to start service).
+[2020-09-14 20:01:02] [info]  [ 3704] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2020-09-14 20:01:02] [info]  [ 3704] Starting service 'neo4j'...
+[2020-09-14 20:01:02] [info]  [ 2988] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2020-09-14 20:01:02] [info]  [ 2988] Running Service 'neo4j'...
+[2020-09-14 20:01:02] [info]  [ 5656] Starting service...
+[2020-09-14 20:01:02] [error] [ 8068] CreateJavaVM Failed with error [-6]
+[2020-09-14 20:01:02] [error] [ 5656] Failed to start Java
+[2020-09-14 20:01:02] [error] [ 5656] ServiceStart returned 4.
+[2020-09-14 20:01:02] [info]  [ 2988] Run service finished.
+[2020-09-14 20:01:02] [info]  [ 2988] Apache Commons Daemon procrun finished.
+[2020-09-14 20:01:04] [error] [ 3704] apxServiceControl(): dwState(4) != dwCurrentState(1); dwWin32ExitCode = 1066, dwWaitHint = 0, dwServiceSpecificExitCode = 4
+[2020-09-14 20:01:04] [error] [ 3704] apxServiceControl(): returning FALSE
+[2020-09-14 20:01:04] [error] [ 3704] Failed to start service 'neo4j'.
+[2020-09-14 20:01:04] [info]  [ 3704] Finished starting service 'neo4j', returning 0.
+[2020-09-14 20:01:04] [error] [ 3704] Apache Commons Daemon procrun failed with exit value: 5 (failed to start service).
+[2020-09-14 20:01:24] [info]  [ 5856] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2020-09-14 20:01:24] [info]  [ 5856] Starting service 'neo4j'...
+[2020-09-14 20:01:24] [info]  [ 6232] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2020-09-14 20:01:24] [info]  [ 6232] Running Service 'neo4j'...
+[2020-09-14 20:01:24] [info]  [ 1376] Starting service...
+[2020-09-14 20:01:24] [error] [ 4196] CreateJavaVM Failed with error [-6]
+[2020-09-14 20:01:24] [error] [ 1376] Failed to start Java
+[2020-09-14 20:01:24] [error] [ 1376] ServiceStart returned 4.
+[2020-09-14 20:01:24] [info]  [ 6232] Run service finished.
+[2020-09-14 20:01:24] [info]  [ 6232] Apache Commons Daemon procrun finished.
+[2020-09-14 20:01:26] [error] [ 5856] apxServiceControl(): dwState(4) != dwCurrentState(1); dwWin32ExitCode = 1066, dwWaitHint = 0, dwServiceSpecificExitCode = 4
+[2020-09-14 20:01:26] [error] [ 5856] apxServiceControl(): returning FALSE
+[2020-09-14 20:01:26] [error] [ 5856] Failed to start service 'neo4j'.
+[2020-09-14 20:01:26] [info]  [ 5856] Finished starting service 'neo4j', returning 0.
+[2020-09-14 20:01:26] [error] [ 5856] Apache Commons Daemon procrun failed with exit value: 5 (failed to start service).

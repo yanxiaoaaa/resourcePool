@@ -1,0 +1,16 @@
+[2020-09-15 00:23:39] [info]  [ 2276] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2020-09-15 00:23:39] [info]  [ 2276] Running Service 'neo4j'...
+[2020-09-15 00:23:39] [info]  [ 2308] Starting service...
+[2020-09-15 00:23:41] [error] [ 2328] CreateJavaVM Failed with error [-6]
+[2020-09-15 00:23:41] [error] [ 2308] Failed to start Java
+[2020-09-15 00:23:41] [error] [ 2308] ServiceStart returned 4.
+[2020-09-15 00:24:40] [info]  [ 2276] Run service finished.
+[2020-09-15 00:24:40] [info]  [ 2276] Apache Commons Daemon procrun finished.
+[2020-09-15 09:05:08] [info]  [ 2272] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2020-09-15 09:05:09] [info]  [ 2272] Running Service 'neo4j'...
+[2020-09-15 09:05:09] [info]  [ 2304] Starting service...
+[2020-09-15 09:05:10] [error] [ 2384] CreateJavaVM Failed with error [-6]
+[2020-09-15 09:05:11] [error] [ 2304] Failed to start Java
+[2020-09-15 09:05:11] [error] [ 2304] ServiceStart returned 4.
+[2020-09-15 09:06:06] [info]  [ 2272] Run service finished.
+[2020-09-15 09:06:06] [info]  [ 2272] Apache Commons Daemon procrun finished.
